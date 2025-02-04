@@ -32,6 +32,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 6. [**Photo Gallery**](./06.%20Photo-gallery/index.html)
 7. [**Nutrition Label**](./07.%20Nutrition-label/index.html)
 8. [**Quiz**](./08.%20Quiz/index.html)
+9. [**Balance Sheet**](./09.%20Balance-sheet/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
@@ -43,6 +44,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 ## Certification Projects  
 The following projects are part of the final assignments required to earn the Responsive Web Design certification:  
 1. [***Survey Form***](./Survey-form/index.html)
+2. [***Tribute Page***](./Tribute-page/index.html)
 
 ---
 
