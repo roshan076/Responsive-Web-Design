@@ -33,6 +33,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 7. [**Nutrition Label**](./07.%20Nutrition-label/index.html)
 8. [**Quiz**](./08.%20Quiz/index.html)
 9. [**Balance Sheet**](./09.%20Balance-sheet/index.html)
+10. [**Cat Painting**](./10.%20Cat-painting/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
