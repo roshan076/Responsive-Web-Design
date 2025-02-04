@@ -28,6 +28,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 2. [**Cafe Menu**](./02.%20Cafe-menu/index.html)
 3. [**Colored Markers**](./03.%20Colored-markers/index.html)
 4. [**Registration Form**](./04.%20Registration-form/index.html)
+5. [**Rothko Painting**](./05.%20Rothko-painting/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
