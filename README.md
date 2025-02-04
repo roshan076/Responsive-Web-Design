@@ -26,6 +26,8 @@ This repository serves as both a learning resource and a portfolio for responsiv
 ### Learning Modules
 1. [**Cat Photo App**](./01.%20Cat-photo-app/index.html)
 2. [**Cafe Menu**](./02.%20Cafe-menu/index.html)
+3. [**Colored Markers**](./03.%20Colored-markers/index.html)
+4. [**Registration Form**](./04.%20Registration-form/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
@@ -36,7 +38,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 
 ## Certification Projects  
 The following projects are part of the final assignments required to earn the Responsive Web Design certification:  
-
+1. [***Survey Form***](./Survey-form/index.html)
 ---
 
 ## Installation  
