@@ -31,6 +31,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 5. [**Rothko Painting**](./05.%20Rothko-painting/index.html)
 6. [**Photo Gallery**](./06.%20Photo-gallery/index.html)
 7. [**Nutrition Label**](./07.%20Nutrition-label/index.html)
+8. [**Quiz**](./08.%20Quiz/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
