@@ -37,6 +37,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 11. [**Piano**](./11.%20Piano/index.html)
 12. [**City Skyline**](./12.%20City-skyline/index.html)
 13. [**Magazine**](./13.%20Magazine/index.html)
+14. [**Ferris Wheel**](./14.%20Ferris-wheel/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
