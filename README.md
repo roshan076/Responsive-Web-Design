@@ -35,6 +35,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 9. [**Balance Sheet**](./09.%20Balance-sheet/index.html)
 10. [**Cat Painting**](./10.%20Cat-painting/index.html)
 11. [**Piano**](./11.%20Piano/index.html)
+12. [**City Skyline**](./12.%20City-skyline/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
