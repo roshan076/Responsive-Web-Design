@@ -25,6 +25,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 
 ### Learning Modules
 1. [**Cat Photo App**](./01.%20Cat-photo-app/index.html)
+2. [**Cafe Menu**](./02.%20Cafe-menu/index.html)
 
 ### Each folder contains the following:  
 - HTML and CSS files for the project  
