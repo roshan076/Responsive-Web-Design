@@ -47,6 +47,7 @@ This repository serves as both a learning resource and a portfolio for responsiv
 The following projects are part of the final assignments required to earn the Responsive Web Design certification:  
 1. [***Survey Form***](./Survey-form/index.html)
 2. [***Tribute Page***](./Tribute-page/index.html)
+3. [***Technical Documentation***](./Technical-documentation/index.html)
 
 ---
 
