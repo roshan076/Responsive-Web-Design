@@ -50,6 +50,7 @@ The following projects are part of the final assignments required to earn the Re
 1. [***Survey Form***](./Survey-form/index.html)
 2. [***Tribute Page***](./Tribute-page/index.html)
 3. [***Technical Documentation***](./Technical-documentation/index.html)
+4. [***Product Landing Page***](./Product-landing-page/index.html)
 
 ---
 
